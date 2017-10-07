@@ -1,0 +1,33 @@
+{
+  "name": "testplugin98765",
+  "version": "0.0.6",
+  "description": "Cordova plugin for QR code scanning with setting option for camera resizing",
+  "cordova": {
+    "id": "cordova-plugin-QRCodeScanner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ritesh Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "user": "0.0.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritjos12345/cordova_plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ritjos12345/cordova_plugin/issues"
+  },
+  "homepage": "https://github.com/ritjos12345/cordova_plugin#readme"
+}
